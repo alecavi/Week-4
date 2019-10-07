@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+header
+{
+  font-family: 'Share Tech Mono', monospace;
+  background-color: lightgrey;
+  padding: 1px;
+}
+
+h1
+{
+  margin: 0px;
+}
+
+.navbar
+{
+  list-style-type: none;
+  margin: 0px;
+  padding-left: 5px;
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+
+.navbar li
+{
+  text-align: left;
+  display: inline-block;
+  padding: 5px 5px;
+  padding-right: 20px;
+  padding-left: 0px;
+}
+
+article
+{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+img
+{
+  width: 100%;
+}
